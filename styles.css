@@ -10,6 +10,7 @@
 body {
     display: flex;
     flex-wrap: wrap;
+
 }
 
 /* Apresentação do Evento */
@@ -99,6 +100,8 @@ body {
     background-image: url("../img/pattern.png");
     background-size: cover;
     color: #fff;
+
+
 }
 
 #form-inner {
